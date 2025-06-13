@@ -1,7 +1,7 @@
 # Nathanael Tate Cotton
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/nathanael-cotton-450215306">
+  <a href="https://www.linkedin.com/in/nathanael-cotton-450215306" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
@@ -27,10 +27,11 @@ My approach is grounded in a strong understanding of software architecture and a
 
 ### 🚀 Key Engineering Accomplishments
 
-* **Architected and developed a suite of internal admin tools** using Firebase, automating critical workflows and saving the customer support team over 100 hours per week.
+* **Architected and developed a suite of internal admin tools** using Firebase, automating critical workflows and saving the OneClick customer support team over 100 hours per week.
 * **Incorporated AI-augmented development workflows** for rapid prototyping, code optimization, and documentation, leading to faster delivery of high-quality, maintainable code.
 * **Designed, developed, and deployed over 40 full-stack features** using modern JavaScript frameworks, directly contributing to the core product roadmap.
 * **Engineered a complex many-to-many relationship system** for business account management, using a plan-then-act AI-assisted development approach to ensure architectural integrity and accelerate implementation.
 * **Built secure, scalable full-stack applications** like `MyRPGVisual` from the ground up, featuring RESTful APIs, user authentication, and real-time data interaction.
+* **I am still working on personal projects for the TTRPG community** but they are private for now. Looking forward to sharing with y'all soon.
 
 I am passionate about building software that solves real-world problems. Check out my pinned projects below!
